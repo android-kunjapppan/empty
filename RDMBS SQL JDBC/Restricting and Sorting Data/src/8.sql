@@ -1,0 +1,1 @@
+select lastname,job_title from employee where managerID is null;

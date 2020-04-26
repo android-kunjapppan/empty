@@ -1,0 +1,1 @@
+select lastnames from employee where lastname like '%a%' and lastname like '%e%';

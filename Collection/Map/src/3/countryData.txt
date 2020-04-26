@@ -1,0 +1,3 @@
+Bihar:Patna
+UP:Lucknow
+Rajasthan:Jaipur

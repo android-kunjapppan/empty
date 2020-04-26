@@ -1,0 +1,1 @@
+select lastname,hire_date from employee datepart( year,hire_date)=1994;

@@ -1,0 +1,1 @@
+select (firstname+lastname) as Employee, salary as Monthly_Salary from Employee where salary between 5000 and 12000 and deptID in (20,50);
